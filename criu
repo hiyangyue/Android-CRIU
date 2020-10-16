@@ -1,6 +1,0 @@
-#/bin/sh
-
-export PATH="/criu:$PATH"
-export XTABLE_LIBDIR="/criu/xtables"
-
-/criu/criu-static "$@"
