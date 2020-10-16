@@ -1,4 +1,4 @@
-# Android-criu
+# Android-CRIU
 To use criu on android platform.
 
 
