@@ -129,4 +129,4 @@ index 120fa8fb..9a24a8ee 100644
  #include "asm/types.h"
 ```
 
-And you need to delet the -Werror in Makefile.
+And you need to delete the -Werror in Makefile.
